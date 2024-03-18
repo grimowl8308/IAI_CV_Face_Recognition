@@ -1,4 +1,3 @@
-"
 # IndonesiaAI_ComputerVision
 
 ### Introduction
@@ -33,4 +32,8 @@ Broadly, every notebook consists of three main sections:
 | F1            |    97.09    |  95.59 |   90.10   |   94.74   |
 | Loss          |    17.12    |  10.21 |   16.16   |   11.25   |
 | Inference (s) |    12.10    |   7.77 |   12.86   |   18.24   |
-" 
+
+<br>During our experiment, in the testing the VGG16 is 35.8% faster than its closest competitor, the InceptionV3.
+<br>VGG16 also have the lowest (best) Test Loss.
+<br>and all of these is achieved with only a very slightly lower classification scores.
+<br>Therefore in this small experiment, VGG is the one to go.
