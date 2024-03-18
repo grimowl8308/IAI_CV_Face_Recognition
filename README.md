@@ -24,14 +24,14 @@ Broadly, every notebook consists of three main sections:
 
 <br>Here are the performance results of transfer learning from each optimized model.
 
-|               | InceptionV3 |  VGG16 | ResNet101 | ResNet152 |
-|---------------|-------------|--------|-----------|-----------|
-| Accuracy      |    97.60    |  96.39 |   91.98   |   95.79   |
-| Precision     |    96.15    |  95.59 |   91.00   |   96.92   |
-| Recall        |    98.04    |  95.59 |   89.22   |   92.65   |
-| F1            |    97.09    |  95.59 |   90.10   |   94.74   |
-| Loss          |    17.12    |  10.21 |   16.16   |   11.25   |
-| Inference (s) |    12.10    |   7.77 |   12.86   |   18.24   |
+|                                       | InceptionV3 |  VGG16 | ResNet101 | ResNet152 |
+|---------------------------------------|-------------|--------|-----------|-----------|
+| Accuracy                              |    97.60    |  96.39 |   91.98   |   95.79   |
+| Precision                             |    96.15    |  95.59 |   91.00   |   96.92   |
+| Recall                                |    98.04    |  95.59 |   89.22   |   92.65   |
+| F1                                    |    97.09    |  95.59 |   90.10   |   94.74   |
+| Loss                                  |    17.12    |  10.21 |   16.16   |   11.25   |
+| Inference time of 500 test images (s) |    12.10    |   7.77 |   12.86   |   18.24   |
 
 <br>During our experiment, in the testing the VGG16 is 35.8% faster than its closest competitor, the InceptionV3.
 <br>VGG16 also have the lowest (best) Test Loss.
