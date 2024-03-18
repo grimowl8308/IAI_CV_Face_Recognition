@@ -36,4 +36,4 @@ Broadly, every notebook consists of three main sections:
 <br>During our experiment, in the testing the VGG16 is 35.8% faster than its closest competitor, the InceptionV3.
 <br>VGG16 also have the lowest (best) Test Loss.
 <br>and all of these is achieved with only a very slightly lower classification scores.
-<br>Therefore in this small experiment, VGG is the one to go.
+<br>Therefore in conclusion, **VGG16 is the overall winner, but if speed is not a concern then InceptionV3 is preferred**.
