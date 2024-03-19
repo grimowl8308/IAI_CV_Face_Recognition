@@ -9,7 +9,7 @@
 
 
 ### Getting Started
-This project was entirely conducted on Kaggle. Here are the steps to run it from your computer:
+This project was entirely conducted on [Kaggle](https://www.kaggle.com/work/collections/13703683). Here are the steps to run it from your computer:
 1. Download all files in this repository (`.ipynb` and `.zip`) to your working directory.
 2. Create a new directory `./input` in your working directory and extract the `celeba-subset.zip` file into it.
 3. You can now run the notebook on your computer, but it is recommended to use GPU to speed up the training process.
