@@ -33,7 +33,7 @@ Broadly, every notebook consists of three main sections:
 | Loss                                  |    17.12    |  10.21 |   16.16   |   11.25   |
 | Inference time of 500 test images (s) |    12.10    |   7.77 |   12.86   |   18.24   |
 
-<br>During our experiment, in the testing the VGG16 is 35.8% faster than its closest competitor, the InceptionV3.
-<br>VGG16 also have the lowest (best) Test Loss.
+<br>During our experiment, in the testing the VGG16 is 71.6% faster than its closest competitor, the InceptionV3.
+<br>VGG16 also have the lowest (best) Test Loss, which means fewer wrong predictions.
 <br>and all of these is achieved with only a very slightly lower classification scores.
 <br>Therefore in conclusion, **VGG16 is the overall winner, but if speed is not a concern then InceptionV3 is preferred**.
