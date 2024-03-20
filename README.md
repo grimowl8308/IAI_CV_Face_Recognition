@@ -1,4 +1,4 @@
-# IndonesiaAI_ComputerVision
+# Face Recognition (Gender Binary Classification)
 
 ### Introduction
 - Face recognition technology, enabled by artificial intelligence (AI), has become increasingly prevalent across various industries. 
